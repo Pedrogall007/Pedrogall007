@@ -12,4 +12,4 @@ I'm a Software Engineering student currently focused on backend development and 
 - **Tools:** Git, GitHub, JSON, VS Code, Windows/Linux
 
 ## 📁 Featured Projects
-- [Python CLI To-Do List](git@github.com:Pedrogall007/1y.git): A complete CLI CRUD application with JSON data persistence and input error handling.
+* [Python CLI To-Do List](https://github.com/Pedrogall007/1y): A complete CLI CRUD application with JSON data persistence and input error handling. 
