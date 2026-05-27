@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pedro! 👋
 
-<!--
-**Pedrogall007/Pedrogall007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student currently focused on backend development and international career building.
 
-Here are some ideas to get you started:
+## 🎯 Current Goals
+- 🇧🇷 Studying Software Engineering (1st Year).
+- 🇯🇵 Learning Japanese (Anki + Grammar) & improving English for tech environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python (Foundations)
+- **Tools:** Git, GitHub, JSON, VS Code, Windows/Linux
+
+## 📁 Featured Projects
+- [Python CLI To-Do List](git@github.com:Pedrogall007/1y.git): A complete CLI CRUD application with JSON data persistence and input error handling.
